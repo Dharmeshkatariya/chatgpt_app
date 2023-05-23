@@ -23,7 +23,7 @@ class Services {
               children: const [
                 Flexible(
                   child: TextWidget(
-                    label: "Chosen Model:",
+                    label: "Chosen Model",
                     fontSize: 16,
                   ),
                 ),
